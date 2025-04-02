@@ -1,6 +1,10 @@
 # To-Do List
 
-Uma aplicação web simples e funcional para gerenciamento de tarefas, desenvolvida com HTML, CSS e JavaScript puro.
+Uma aplicação web simples e funcional para gerenciamento de tarefas, com animações fluidas desenvolvida com HTML, CSS e JavaScript puro.
+
+![Image](https://github.com/user-attachments/assets/57007ee6-dcf7-4388-bc41-ded12769ea21)
+
+![Image](https://github.com/user-attachments/assets/a0f45d1b-21a3-42a2-80d6-11f724fedc49)
 
 ## 🚀 Funcionalidades
 
