@@ -19,7 +19,7 @@ Uma aplicação web simples e funcional para gerenciamento de tarefas, com anima
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 
 2. Abra o arquivo `index.html` em seu navegador preferido
